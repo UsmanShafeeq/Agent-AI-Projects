@@ -1,5 +1,5 @@
 PyGithub==2.9.0
-openai==1.30.0
-pandas==2.1.1
-xlsxwriter==3.1.5
-numpy==1.26.4
+openai>=1.30.0
+pandas>=2.0.0
+xlsxwriter>=3.1.0
+numpy>=1.24.0
